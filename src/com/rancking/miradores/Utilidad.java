@@ -1,7 +1,7 @@
 package com.rancking.miradores;
 import javax.swing.*;
 
-public class Utilidades {
+public class Utilidad {
     public static String pedirTexto(String msg) {
         return JOptionPane.showInputDialog(null, msg);
     }
